@@ -1,6 +1,7 @@
 Weather Forecast App:
 
 A React-based weather forecast application that displays a 5-day weather forecast for any city. This app simulates a real API-powered experience.
+
 ![image](https://github.com/user-attachments/assets/23b36e85-54f9-4fc1-bca0-1681975e4eee)
 
 
