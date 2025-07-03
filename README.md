@@ -1,6 +1,6 @@
 Weather Forecast App:
 
-A React-based weather forecast application that displays a 5-day weather forecast for any city. This app simulates a real API-powered experience but uses mock data for demonstration purposes.
+A React-based weather forecast application that displays a 5-day weather forecast for any city. This app simulates a real API-powered experience.
 ![image](https://github.com/user-attachments/assets/23b36e85-54f9-4fc1-bca0-1681975e4eee)
 
 
@@ -9,7 +9,7 @@ Features:
 ✔ Search by City – Enter any location to get a 5-day forecast.
 ✔ Realistic UI – Designed to look like a real API-powered weather app.
 ✔ Responsive Design – Works on mobile and desktop.
-✔ No External APIs – Uses mock data to simulate real weather responses.
+✔ No External APIs – Uses Api data to simulate real weather responses.
 
 Installation & Setup:
 
@@ -29,7 +29,7 @@ How It Works:
 
 User enters a city name (e.g., "New York").
 
-App simulates an API call (but uses mock data).
+App simulates an API call.
 
 Displays a 5-day forecast with:
 
